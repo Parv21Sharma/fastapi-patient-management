@@ -54,9 +54,9 @@ BMI is calculated using the formula:
 
 ```text
 fastapi-patient-management/
+├── README.md
 ├── main.py
-├── patients.json
-└── README.md
+└── patients.json
 ```
 
 - `main.py` — FastAPI application, patient models, validation, BMI calculation, and API endpoints.
